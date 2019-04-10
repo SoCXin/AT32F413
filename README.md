@@ -25,5 +25,10 @@ CH56x系列单片机是WCH推出的32位高性能型高速接口系列MCU，该�
 
 - [CH561](https://github.com/sochub/CH561) 
 
+#### [WCH姊妹产品](https://github.com/sochub/WCH)
+
+- [CH57x系列](https://github.com/sochub/CH57)
+- [WCH-8051](https://github.com/sochub/WCH-8051)  
+
 
 ###  [SoC开发平台](http://www.qitas.cn)   
