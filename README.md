@@ -1,28 +1,34 @@
-﻿# [CH56x单片机](https://github.com/sochub/CH56)
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
-####  qitas@qitas.cn
-#### 父级：[WCH](https://github.com/sochub/WCH) 
-#### 归属：[RISC](https://github.com/sochub/RISC) 
-### [描述](https://github.com/sochub/CH56/wiki) 
+﻿# [CH561](https://github.com/sochub/CH561) 
 
-CH56x系列是WCH 32位高性能型高速接口系列MCU，该系列运行频率可以在120MHz左右，包括的主要特殊功能有：USB / Ethernet / SATA / SDIO
+[![sites](http://182.61.61.133/link/resources/SoC.png)](https://stop.stops.top) 
 
-该系列的特点就是非常见的的数据通信接口，可扩展的存储介质接口，适合用于USB转存储设备。
+#### [Vendor](https://github.com/sochub/Vendor)：[WCH](https://github.com/sochub/WCH)
+#### [Cortex](https://github.com/sochub/Cortex)：[E8051](https://github.com/sochub/8051)
+#### [Level](https://github.com/sochub/Level)：100/130MHz 
 
-[![sites](SoC/CH56.png)](http://www.wch.cn/products/category/5.html) 
+### [简介](https://github.com/sochub/CH56/wiki) 
 
-### [收录产品](https://github.com/sochub/CH56)
+[CH561](https://github.com/sochub/CH561) 是一款32位RISC精简指令集CPU，默认系统主频为100MHZ, 64K FLASH、28K DATAFLASH、32K SRAM, 片上集成支持10/100M自适应的网络接口（MAC + PHY），内置网络PHY，LQFP64M，可广泛应用于各种联网控制类应用。
+
+[![sites](docs/CH56.png)](http://www.wch.cn/products/category/5.html) 
+
+[![sites](docs/CH561.jpg)](http://www.wch.cn/products/CH561.html) 
 
 - [CH568](https://github.com/sochub/CH568) 
 - [CH567](https://github.com/sochub/CH567) 
 - [CH563](https://github.com/sochub/CH563) 
 - [CH561](https://github.com/sochub/CH561) 
 
-### [WCH产品](https://github.com/sochub/WCH)
+### [资源收录](https://github.com/sochub/CH561)
 
-- [CH57x无线系列](https://github.com/sochub/CH57)
-- [CH55x USB系列](https://github.com/sochub/CH55)
-- [CH54x触控系列](https://github.com/sochub/CH54)
+- [文档](docs/)
+- [资源](src/)
+
+### [选型建议](https://github.com/sochub)
+
+[CH561](https://github.com/sochub/CH561) 是该系列低规格配置，升级版本[CH563](https://github.com/sochub/CH563)拥有更多存储和IO
+
+##  [SoC开发平台](http://www.qitas.cn)  
 
 
-###  [SoC开发平台](http://www.qitas.cn)   
+
