@@ -3,12 +3,12 @@
 [![sites](http://182.61.61.133/link/resources/SoC.png)](https://stop.stops.top) 
 
 #### [Vendor](https://github.com/sochub/Vendor)：[WCH](https://github.com/sochub/WCH)
-#### [Cortex](https://github.com/sochub/Cortex)：[E8051](https://github.com/sochub/8051)
+#### [Cortex](https://github.com/sochub/Cortex)：[ARM7](https://github.com/sochub/ARM)
 #### [Level](https://github.com/sochub/Level)：100/130MHz 
 
 ### [简介](https://github.com/sochub/CH56/wiki) 
 
-[CH561](https://github.com/sochub/CH561) 是一款32位RISC精简指令集CPU，默认系统主频为100MHZ, 64K FLASH、28K DATAFLASH、32K SRAM, 片上集成支持10/100M自适应的网络接口（MAC + PHY），内置网络PHY，LQFP64M，可广泛应用于各种联网控制类应用。
+[CH561](https://github.com/sochub/CH561) 是一款32位ARM RISC精简指令集CPU，默认系统主频为100MHZ, 64K FLASH、28K DATAFLASH、32K SRAM, 片上集成支持10/100M自适应的网络接口（MAC + PHY），内置网络PHY，LQFP64M，可广泛应用于各种联网控制类应用。
 
 [![sites](docs/CH56.png)](http://www.wch.cn/products/category/5.html) 
 
