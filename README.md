@@ -1,34 +1,39 @@
-﻿# [CH561](https://github.com/sochub/CH561) 
+﻿# [AT32F413](https://github.com/SoCXin/AT32F413)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](https://stop.stops.top) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/sochub/Vendor)：[WCH](https://github.com/sochub/WCH)
-#### [Cortex](https://github.com/sochub/Cortex)：[ARM7](https://github.com/sochub/ARM)
-#### [Level](https://github.com/sochub/Level)：100/130MHz 
+* [arterytek](https://www.arterytek.com/cn/index.jsp): [Cortex-M4](https://github.com/SoCXin/Cortex)
+* [L5R4](https://github.com/SoCXin/Level): 200 MHz x 1.25 DMIPS/MHz
 
-### [简介](https://github.com/sochub/CH56/wiki) 
+## [简介](https://github.com/SoCXin/AT32F413/wiki)
 
-[CH561](https://github.com/sochub/CH561) 是一款32位ARM RISC精简指令集CPU，默认系统主频为100MHZ, 64K FLASH、28K DATAFLASH、32K SRAM, 片上集成支持10/100M自适应的网络接口（MAC + PHY），内置网络PHY，LQFP64M，可广泛应用于各种联网控制类应用。
+[![sites](docs/AT32F413.png)](https://www.arterytek.com/cn/product/AT32F413.jsp?t=1629178929761#Feature)
 
-[![sites](docs/CH56.png)](http://www.wch.cn/products/category/5.html) 
+### 关键特性
 
-[![sites](docs/CH561.jpg)](http://www.wch.cn/products/CH561.html) 
+* Cortex®-M4主频最高 200 MHz
+* 高达 16MB 外部 SPI Flash memory 扩展
+* 3 x USART + 2 x UART
+* 2 x CAN 2.0B
+* Crystal-less USB2.0
+* SDIO
 
-- [CH568](https://github.com/sochub/CH568) 
-- [CH567](https://github.com/sochub/CH567) 
-- [CH563](https://github.com/sochub/CH563) 
-- [CH561](https://github.com/sochub/CH561) 
+### [资源收录](https://github.com/SoCXin/AT32F413)
 
-### [资源收录](https://github.com/sochub/CH561)
-
-- [文档](docs/)
-- [资源](src/)
-
-### [选型建议](https://github.com/sochub)
-
-[CH561](https://github.com/sochub/CH561) 是该系列低规格配置，升级版本[CH563](https://github.com/sochub/CH563)拥有更多存储和IO
-
-##  [SoC开发平台](http://www.qitas.cn)  
+* [参考资源](src/)
+* [参考文档](docs/)
+* [参考工程](project/)
 
 
+### [选型建议](https://github.com/SoCXin)
 
+[AT32F413](https://github.com/SoCXin/AT32F413)
+
+#### 封装规格
+
+* LQFP64 10 x 10 mm
+* LQFP48 7 x 7 mm
+* QFN48 6 x 6 mm
+* QFN32 4 x 4 mm
+
+### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
